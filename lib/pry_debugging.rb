@@ -1,5 +1,6 @@
-def plus_twonum
-	binding.pry
+def plus_two(num)
+  num + ata
+
 end
 
 
