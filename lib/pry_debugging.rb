@@ -1,5 +1,6 @@
 def plus_two(num)
-  num + ata
+  num+atan2
+  num
 
 end
 
