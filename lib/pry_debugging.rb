@@ -1,6 +1,6 @@
-def plus_two(3)
+def plus_two(5)
 	3 + 2
-	5
+	3
 	binding.pry
 end
 
