@@ -4,4 +4,4 @@ def plus_two(num)
 	binding.pry
 end
 
-plus-two
+plus_two(3)
